@@ -2,13 +2,15 @@
 
 给老师和家人查看的数学错题本：31道收录题，按数与运算、图形与几何、应用问题、组合与最值整理。
 
-## 直接查看
+## 直接打开（推荐）
 
-[打开在线错题本](https://math-buddy-notebook-nov19.janewong-cn.chatgpt.site/)
+**[点击打开「小玉的奥数之旅」](https://math-buddy-notebook-nov19.janewong-cn.chatgpt.site/)**
 
-## 下载到电脑
+这是 GPT 创建的在线错题本。正常点击上面的链接即可查看，无需下载或安装软件。老师和家长可直接展开知识树、看题目和解析。
 
-下载仓库中的 `xiaoyu-math-offline-2026-11-19.zip`，解压后双击“小玉的奥数之旅.html”。所有照片和内容都在文件里，打开后不需要联网、登录或安装软件。
+## 下载到电脑（备用）
+
+[点击下载离线包](https://github.com/charinkers/xiaoyu-math-journey/raw/refs/heads/main/xiaoyu-math-offline-2026-11-19.zip)，解压后双击“小玉的奥数之旅.html”。所有照片和内容都在文件里，打开后不需要联网、登录或安装软件。
 
 手机和平板建议使用上面的在线链接。部分手机文件预览器不能运行网页的展开功能。
 
